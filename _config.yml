@@ -1,7 +1,12 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
 title: R's Blog
 author: Robyn Maehl
 description: General Blogging related to my Projects
+
 
 
 
