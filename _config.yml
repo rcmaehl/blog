@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: R's Blog
 author: Robyn Maehl
-description: General Blogging related to my Projects/Repos and related info
+description: General Blogging related to my Projects
+
 
 
